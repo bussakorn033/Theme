@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testTheme</string>
+    <string name="Home">Home</string>
+    <string name="About">About</string>
+</resources>
